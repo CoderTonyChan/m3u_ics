@@ -1,6 +1,14 @@
 
 # 仓库简介
 #### 个人爱好，收集整合！佛系更新…
+
+
+根据 @PlatyHsu 大佬提供的英文日历链接做了一个中文版ICS日历，这是导航网址：https://cesaryuan.github.io/olympics-calendar/
+如果你只关注中国队的比赛时间，提供一个快速的链接：https://cesaryuan.github.io/olympics-calendar/general/CHN.ics
+使用方法（只演示小米手机）：
+打开日历 -> 右上角三个点进入设置 -> 日程导入 -> URL导入 -> 填入上面的链接
+
+
 ---
 ### 推荐软件「你说了算」  
 * IOS系统  
